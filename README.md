@@ -1,15 +1,7 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9f2f756f-e1fc-48d9-9c07-b7d7433d8aaa/deploy-status)](https://app.netlify.com/sites/flamboyant-lumiere-482a1e/deploys)
 
-# ☕ STARBUCKS
-
-스타벅스 랜딩 페이지(홈페이지)를 만드는 예제입니다. <br>
-꼭 ⬇ 아래 내용 모두 읽어보시고, ⬆ 완성된 코드도 확인해 보세요!
-
-[master 브랜치로 이동](https://github.com/ParkYoungWoong/starbucks-vanilla-app) <br/>
-[signin 브랜치로 이동](https://github.com/ParkYoungWoong/starbucks-vanilla-app/tree/feature/signin)
-
-[DEMO](https://flamboyant-lumiere-482a1e.netlify.app/) <br/>
-[DEMO+signin](https://priceless-bhabha-83fc0d.netlify.app/)
+STAR BUCKS 클론
+미리보기
+(https://determined-shaw-ddf628.netlify.app)
 
 ![Starbucks](https://raw.githubusercontent.com/ParkYoungWoong/starbucks-vanilla-app/master/_assets/main_screenshot.jpg)
 
